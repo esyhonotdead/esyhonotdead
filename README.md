@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esyhonotdead
-- 👀 I’m interested in something i haven't figure out yet
-- 🌱 I’m currently learning python, golang
+- 👀 I’m interested in flutter app development
+- 🌱 I’m currently learning python, golang and dart
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: write me anywhere
 - 😄 Pronouns: he/hee
