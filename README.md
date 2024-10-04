@@ -1,16 +1,24 @@
-## Hi there 👋
+## Name is Nikita, also known as esyho
 
-<!--
-**esyhonotdead/esyhonotdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me:
+- 17, y.o
+- Live in Moscow, Russia
+- MBSTU IU7 student
+- Favourite game: [Path of Exile](https://www.pathofexile.com/)
+- Favourite band: Sleep Token
 
-Here are some ideas to get you started:
+# Skills:
+- Python (ruff + uv)
+- Go (still learning)
+- Dart/Flutter (still learning)
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Setup:
+- VSCode and I am learning NVim
+- Favourite theme is Gruvbox
+- Laptop: ASUS Rog Zepyhurus G14 2021
+- OS: Windows 11 + Arch WSL
+
+# Links:
+- [Steam](https://steamcommunity.com/id/esyhonotdead/)
+- [Spotify](https://open.spotify.com/user/e1plddu8vflj1msixputl4fg6?si=eC1B3oMoTMqJtuCHm2aj3w)
