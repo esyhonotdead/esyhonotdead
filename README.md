@@ -1,5 +1,4 @@
-# Name is Nikita, also known as esyho
-kinda a programmer
+# yep
 
 ## About me:
 - 17, y.o
