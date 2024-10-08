@@ -4,7 +4,7 @@ kinda a programmer
 ## About me:
 - 17, y.o
 - Live in Moscow, Russia
-- MBSTU IU7 student
+- BMSTU IU7 student
 - Favourite game: [Path of Exile](https://www.pathofexile.com/)
 - Favourite band: Sleep Token
 
