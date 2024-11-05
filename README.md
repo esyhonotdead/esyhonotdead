@@ -14,7 +14,7 @@
 - Linux
 
 ## Setup:
-- VSCode and I am learning NVim
+- VSCode and I am learning NVim(not learning NVim since 03.11.2024)
 - Favourite theme is Gruvbox
 - Laptop: ASUS Rog Zepyhurus G14 2021
 - OS: Windows 11 + Arch WSL
