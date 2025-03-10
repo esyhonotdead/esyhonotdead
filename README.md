@@ -1,7 +1,7 @@
 # yep
 
 ## About me:
-- 17, y.o
+- 18, y.o
 - Live in Moscow, Russia
 - BMSTU IU7 student
 - Favourite game: [Path of Exile](https://www.pathofexile.com/)
@@ -9,15 +9,14 @@
 
 ## Skills:
 - Python (ruff + uv)
-- Go (still learning)
-- Dart/Flutter (still learning)
+- Go (novice level)
+- C (at the same level as Go)
 - Linux
 
 ## Setup:
 - VSCode
-- Favourite theme is Gruvbox
 - Laptop: ASUS Rog Zepyhurus G14 2021
-- OS: Windows 11 + Arch WSL
+- OS: Windows 11 + Ubuntu WSL
 
 ## Links:
 - [Steam](https://steamcommunity.com/id/esyhonotdead/)
